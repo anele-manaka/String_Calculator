@@ -1,0 +1,14 @@
+{
+  "name": "string_calculator",
+  "version": "1.0.0",
+  "description": "string calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Anele Manaka",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
